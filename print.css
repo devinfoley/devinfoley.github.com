@@ -1,0 +1,16 @@
+.details-wrapper {
+  display: none;
+}
+.job .body {
+  display: block !important;
+}
+
+.print {
+  display: inline;
+}
+
+#content a {
+  text-decoration: none;
+  color: #444;
+  font-weight: bold;
+}
