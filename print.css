@@ -14,3 +14,10 @@
   color: #444;
   font-weight: bold;
 }
+
+#content h1 {
+  font-size: 120%;
+}
+#content p {
+  font-size: 12px;
+}
